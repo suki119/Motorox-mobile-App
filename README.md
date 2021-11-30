@@ -7,4 +7,4 @@ Motorox Automobiles is one of the best automobile workshops in Moratuwa which of
 // Admin Side In this App
  
 
-![Screenshot 2021-09-26 at 1 10 30](https://user-images.githubusercontent.com/82136162/144111153-6759c989-3e44-4079-9ada-50fed2ebaab5.png)
+![Screenshot 2021-09-26 at 1 1 3](https://user-images.githubusercontent.com/82136162/144111153-6759c989-3e44-4079-9ada-50fed2ebaab5.png)
